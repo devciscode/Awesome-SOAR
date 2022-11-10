@@ -121,6 +121,10 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [SIEM-with-SOAR-Included](#SIEM-with-SOAR-Included)
 - [Open-Source](#Open-Source)
 
+# SOAR integration code repos
+
+ - [shuffle](https://github.com/Shuffle/python-apps)
+
 
 ## Commercial
 - [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Previously Demisto, now with Palo Alto Networks
